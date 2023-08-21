@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "label": "CNPJ",
+      "type": "number",
+      "layout": {
+        "row": "Row_17tdfoi",
+        "columns": null
+      },
+      "id": "Field_0v8sg47",
+      "key": "field_0hnjd1a",
+      "description": "Insera o CNPJ para prosseguir com a consulta"
+    }
+  ],
+  "type": "default",
+  "id": "Form_InserirCNPJ",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.14.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}
